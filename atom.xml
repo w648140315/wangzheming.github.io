@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://w648140315.github.io/</id>
+    <id>https://wzm.github.io/</id>
     <title>Ming</title>
-    <updated>2019-10-19T05:34:41.902Z</updated>
+    <updated>2019-10-19T05:38:51.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://w648140315.github.io/"/>
-    <link rel="self" href="https://w648140315.github.io//atom.xml"/>
+    <link rel="alternate" href="https://wzm.github.io/"/>
+    <link rel="self" href="https://wzm.github.io//atom.xml"/>
     <subtitle>一点写生活，一点写技术</subtitle>
-    <logo>https://w648140315.github.io//images/avatar.png</logo>
-    <icon>https://w648140315.github.io//favicon.ico</icon>
+    <logo>https://wzm.github.io//images/avatar.png</logo>
+    <icon>https://wzm.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Ming</rights>
     <entry>
         <title type="html"><![CDATA[我的教资宝典]]></title>
-        <id>https://w648140315.github.io//post/fen-xiang-jiao-zi-de-show-time-da-fa</id>
-        <link href="https://w648140315.github.io//post/fen-xiang-jiao-zi-de-show-time-da-fa">
+        <id>https://wzm.github.io//post/fen-xiang-jiao-zi-de-show-time-da-fa</id>
+        <link href="https://wzm.github.io//post/fen-xiang-jiao-zi-de-show-time-da-fa">
         </link>
         <updated>2019-10-17T11:54:57.000Z</updated>
         <summary type="html"><![CDATA[<p>距离教资考试不足14天❗️ ❗️ ❗️</p>
@@ -77,8 +77,8 @@ while(你不会) {
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://w648140315.github.io//post/hello-gridea</id>
-        <link href="https://w648140315.github.io//post/hello-gridea">
+        <id>https://wzm.github.io//post/hello-gridea</id>
+        <link href="https://wzm.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
