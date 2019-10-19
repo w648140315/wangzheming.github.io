@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wzm.github.io/</id>
     <title>Ming</title>
-    <updated>2019-10-19T05:42:56.615Z</updated>
+    <updated>2019-10-19T06:34:16.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wzm.github.io/"/>
     <link rel="self" href="https://wzm.github.io//atom.xml"/>
@@ -73,38 +73,6 @@ while(你不会) {
 <p>最近在知乎总是看到一个话题————为什么很多师范生都劝你不要学师范？不外乎就是工资低、工作不再仅仅是教书，还要处理学生、家长、领导、学校等各种各样的杂事，这儿也想谈一谈自己的见解。</p>
 <p>怎么说呢，当初来师范读书，心中其实有自己的小算盘，老师的寒暑假、学校的妹子、轻松的生活，但是我算是调剂生吧，接触了从来没有听说过的专业，就是信息工程，一个学习特别杂的专业，什么都要学却什么都只懂一点，随着自己的眼界开放，看到了学长学姐可以自己做app、网页、小程序、动画等等，一下就心血来潮，参加了工作室，学习JavaWeb开发，入了坑，想出来也难了🤣。<br>
 那我为什么要来考这个师范？前面也说了一个傻傻的原因，其实我还是有自己的小心思，到了大三我开始想到一个问题：我到底想干什么，是毕业找工作直接996看运气凑薪资？是毕业回老家凑活个小学老师？还是随大潮考研？其实想了蛮久，真的是从开学开始，大三说忙也忙，说不忙也不忙，一切取决个人。直到有一天看到图书馆前一个个匆忙的背影，我想何不真的拼一次，哪怕失败？我报考教资就是想逼着自己早早起床，起来背书、背单词，不能让自己闲下来。并且考完教资，还要努力备考六级、学习考研内容、备考计算机专业课，为自己拼搏一次，读研甚至读博。健身界有一句话：不怕你什么时候开始，只怕你永远不开始。路很遥远，仍要坚持。然后很多师范生都要劝退学师范，其实这就像你的老师永远会告诉你长大了千万不要来当老师，像程序员告诉你找不到媳妇、买不起房还头发掉不停，像医生告诉你我读那么多年还是一穷二白。什么事情不去做，就永远不知道它好在哪里，坏在哪里，既然一眼黑，不如牟足劲向前探索，毕竟教师是太阳底下最光辉的职业（我这背的还不赖嘻嘻），当然也致敬所有的人民教师，他们都很优秀。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://wzm.github.io//post/hello-gridea</id>
-        <link href="https://wzm.github.io//post/hello-gridea">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
