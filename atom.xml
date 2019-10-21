@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangzheming.github.io/</id>
     <title>Ming</title>
-    <updated>2019-10-21T02:39:51.359Z</updated>
+    <updated>2019-10-21T02:40:56.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangzheming.github.io/"/>
     <link rel="self" href="https://wangzheming.github.io//atom.xml"/>
-    <subtitle>一点写生活，一点写技术</subtitle>
+    <subtitle>一点写生活，一点写技术。</subtitle>
     <logo>https://wangzheming.github.io//images/avatar.png</logo>
     <icon>https://wangzheming.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Ming</rights>
